@@ -35,6 +35,10 @@ OCCUPATION = Subsistence crop farmers (Small crop farmers)   (0)
 MARITAL_STATUS = Married (0)
                  Unmarried (1)
                  Widowed (2)
+                
+This model retruns the income estimation of the user based on the parameters like region type, occupation, gender, age, marital status, education. This can be extended to state and previous loans and loans cleared.
+
+This project Calculates the Debt to income ratio and tells if the money can be lent to the borrower or not based on the threshold ration set by the lender.
 
 API CALL:
 
