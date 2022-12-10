@@ -1,5 +1,5 @@
 
-Algorithm USed: Histogram based gradient boosting regression tree
+Algorithm Used: Histogram based gradient boosting regression tree
 
 Following Assumptions Considered:
 
